@@ -1,0 +1,5 @@
+db.products.insertOne({ productID: "54191101", "current_price":{"value": 199.99,"currency_code":"USD"}});
+db.products.insertOne({ productID: "54566983", "current_price":{"value": 35.99,"currency_code":"USD"}});
+db.products.insertOne({ productID: "54191097", "current_price":{"value": 129.99,"currency_code":"USD"}});
+db.products.insertOne({ productID: "82866370", "current_price":{"value": 1099.99,"currency_code":"USD"}});
+db.products.insertOne({ productID: "54191104", "current_price":{"value": 549.00,"currency_code":"USD"}});
