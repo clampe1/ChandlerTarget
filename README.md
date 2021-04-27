@@ -1,13 +1,13 @@
 # ChandlerTarget
 
-#To start the server: 
+# To start the server: 
 node server.js
 
-#To run a HTTP Request 
+# To run a HTTP Request 
 python3 request.py
 
 
-#Database
+# Database
 Mongo was used for a test databse.
 Database name: product-data
 Collection: products 
